@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Huỳnh Gia Bảo, a junior at [University of Science, VNU-HCM](https://hcmus.edu.vn/) in Artificial Intelligence.
+I’m Huỳnh Gia Bảo, a junior at [University of Science, VNU-HCM](https://hcmus.edu.vn/) in Artificial Intelligence. I am currently learning and working on projects about NeuroSymbolic, NLP, and Computer Vision.
 
 I’m looking for opportunities in AI/ML, especially roles that require creativity and strong problem-solving skills. 
 
